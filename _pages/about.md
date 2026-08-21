@@ -39,11 +39,11 @@ arXiv, 2025.
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**  
 <u>Junteng Liu</u>, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He.  
-arXiv, 2025. Code available on GitHub (Vision4Chart).
+arXiv, 2025. Code available on GitHub (`Vision4Chart`).
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**  
 <u>Junteng Liu</u>, Shiqi Chen, Yu Cheng, Junxian He.  
-*EMNLP 2024*. Code available on GitHub (Universal_Truthfulness_Hyperplane).
+*EMNLP 2024*. Code available on GitHub (`Universal_Truthfulness_Hyperplane`).
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
 Shiqi Chen, Miao Xiong, <u>Junteng Liu</u>, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.  
